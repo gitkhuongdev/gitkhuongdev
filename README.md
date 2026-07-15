@@ -42,18 +42,6 @@ Focus:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gitkhuongdev&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitkhuongdev&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -62,25 +50,9 @@ Focus:
 
 ---
 
-## 🏆 GitHub Trophy
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gitkhuongdev&theme=tokyonight&column=7"/>
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gitkhuongdev&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/gitkhuongdev/gitkhuongdev/output/github-contribution-grid-snake-dark.svg">
-</p>
 
 ---
 
